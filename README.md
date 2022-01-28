@@ -6,7 +6,7 @@ You must:
 * Have a Crunchyroll account
 * Have MPV Downloaded
 
-* Set the path to mpv.exe
+* Set the path to mpv.exe in the empties quotation marks
 * Set Login / Password for your Crunchyroll account in the empties quotation marks.
 
 * After everything is set save the txt file as .bat
